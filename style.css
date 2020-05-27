@@ -1,6 +1,11 @@
-*{background-color: white;}
 
-.h1 {
+
+body {
+    background-color:#10ac84 ;
+    
+}
+
+h1 {
     position: absolute;
     top: 40%;
     width: 100%;
